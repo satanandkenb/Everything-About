@@ -4,7 +4,7 @@
 1. [Introduction to JavaScript](#Introduction-to-Javascript)
 2. [Best Learning Resources](#Best-Learning-Resources)
 3. [JavaScript Fundamentals](#JavaScript-Fundamentals)
-4. [Modern JavaScript (ES6+)](#Modern-JavaScript-(ES6+))
+4. [Modern JavaScript (ES6+)](#modern-javascript-es6)
 5. [DOM Manipulation](#DOM-Manipulation)
 6. [Asynchronous JavaScript](#Asynchronous-Javascript)
 7. [Best Practices](#Best-Rractices)
