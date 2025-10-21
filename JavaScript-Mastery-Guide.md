@@ -7,7 +7,7 @@
 4. [Modern JavaScript (ES6+)](#modern-javascript-es6)
 5. [DOM Manipulation](#DOM-Manipulation)
 6. [Asynchronous JavaScript](#Asynchronous-Javascript)
-7. [Best Practices](#Best-Rractices)
+7. [Best Practices](#javascript-best-practices)
 8. [Debugging Techniques](#Debugging-Techniques)
 9. [Practice Projects](#Practice-Projects)
 10. [Next Steps](#Next-Steps)
