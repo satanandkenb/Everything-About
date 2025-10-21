@@ -3,14 +3,14 @@
 ## Table of Contents
 1. [Introduction to JavaScript](#Introduction-to-Javascript)
 2. [Best Learning Resources](#Best-Learning-Resources)
-3. [JavaScript Fundamentals](#fundamentals)
-4. [Modern JavaScript (ES6+)](#modern-javascript)
-5. [DOM Manipulation](#dom-manipulation)
-6. [Asynchronous JavaScript](#async-javascript)
-7. [Best Practices](#best-practices)
-8. [Debugging Techniques](#debugging)
-9. [Practice Projects](#projects)
-10. [Next Steps](#next-steps)
+3. [JavaScript Fundamentals](#JavaScript-Fundamentals)
+4. [Modern JavaScript (ES6+)](#Modern-JavaScript-(ES6+))
+5. [DOM Manipulation](#DOM-Manipulation)
+6. [Asynchronous JavaScript](#Asynchronous-Javascript)
+7. [Best Practices](#Best-Rractices)
+8. [Debugging Techniques](#Debugging-Techniques)
+9. [Practice Projects](#Practice-Projects)
+10. [Next Steps](#Next-Steps)
 
 ---
 
