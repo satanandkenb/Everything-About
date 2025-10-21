@@ -10,7 +10,7 @@
 7. [Best Practices](#javascript-best-practices)
 8. [Debugging Techniques](#Debugging-Techniques)
 9. [Practice Projects](#Practice-Projects)
-10. [Next Steps](#Next-Steps)
+10. [Next Steps](#next-steps-in-your-javascript-journey)
 
 ---
 
