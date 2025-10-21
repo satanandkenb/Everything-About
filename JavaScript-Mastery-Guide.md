@@ -1,8 +1,8 @@
 # Complete Guide to Mastering JavaScript - 2025
 
 ## Table of Contents
-1. [Introduction to JavaScript](#introduction)
-2. [Best Learning Resources](#learning-resources)
+1. [Introduction to JavaScript](#Introduction-to-Javascript)
+2. [Best Learning Resources](#Best-Learning-Resources)
 3. [JavaScript Fundamentals](#fundamentals)
 4. [Modern JavaScript (ES6+)](#modern-javascript)
 5. [DOM Manipulation](#dom-manipulation)
