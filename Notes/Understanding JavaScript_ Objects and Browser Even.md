@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 ## Understanding JavaScript: Objects and Browser Events
 
 While knowing objects and browser events is extremely important in JavaScript, calling it complete "mastery" is an oversimplification. JavaScript mastery requires understanding many additional concepts like closures, prototypes, async programming, and modern frameworks. However, these two topics are indeed **fundamental pillars** of JavaScript, especially for DOM manipulation and interactive web development.[^1][^2]
