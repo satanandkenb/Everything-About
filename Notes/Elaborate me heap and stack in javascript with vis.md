@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Elaborate me heap and stack in javascript with visual which i can add to md file of github
+        # Elaborate me heap and stack in javascript with visual which i can add to md file of github
 
 In JavaScript, **stack** and **heap** are two important concepts that represent different types of memory management. Here's a clear explanation along with a visual diagram you can easily add to your Markdown (.md) file for GitHub documentation.
 
